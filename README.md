@@ -5,6 +5,8 @@
 This is the mind palace of the one and only Garysnake.
 Well this is just my personal blog.
 
+## Quick Start
+
 ### How to run local server?
 ```
 # Run Next.js in development mode
@@ -18,6 +20,8 @@ Well this is just my personal blog.
 ~/garysnakeIO/studio
 > sanity start`
 ```
+
+## Additional Info
 
 ### Useful command from the [tutorial](https://www.sanity.io/blog/build-your-own-blog-with-sanity-and-next-js?utm_source=github&github_campaing=rbt)
 ```
